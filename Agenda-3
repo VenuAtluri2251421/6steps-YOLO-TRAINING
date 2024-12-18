@@ -8,4 +8,7 @@ Labelbox
 SuperAnnotate
 V7
 
+then get the label data by dividing the images into test,train,val where train should have more percentage (inside the websites).
+then download the labled data...
+
 i personally use roboflow. You can use what ever you want. The main intention is to get the lables
