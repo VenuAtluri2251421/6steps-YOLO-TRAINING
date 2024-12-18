@@ -1,0 +1,13 @@
+YOLOv1: Introduced in 2016, it framed object detection as a single regression problem, enabling real-time detection.
+YOLOv2 (YOLO9000): Released in 2017, it improved accuracy and speed, introducing batch normalization and high-resolution classifiers.
+YOLOv3: Launched in 2018, it brought enhancements like multi-scale predictions and a deeper architecture for better performance.
+YOLOv4: Released in 2020, it incorporated features like CSPDarknet53 as the backbone and introduced the PANet path-aggregation neck for improved feature representation.
+YOLOv5: Also introduced in 2020 by Ultralytics, it offered improvements in speed and usability, with a focus on PyTorch implementation.
+YOLOv6: Developed by Meituan in 2022, it targeted industrial applications with a focus on efficiency and performance.
+YOLOv7: Released in 2022, it introduced extended efficient layer aggregation networks (E-ELAN) for better performance.
+YOLOv8: Launched by Ultralytics in 2023, it featured an anchor-free design and new backbone architecture, enhancing both speed and accuracy. 
+ULTRALYTICS DOCS
+YOLOv9: Introduced in 2023, it focused on reducing computational demands while maintaining high accuracy.
+YOLOv10: Released in mid-2024, it eliminated the need for non-maximum suppression (NMS) and optimized various model components for superior performance with reduced computational overhead. 
+ULTRALYTICS DOCS
+YOLOv11: The latest version, released in October 2024, continues to build upon previous advancements, introducing significant improvements in architecture and training methods, making it a versatile choice for a wide range of computer vision tasks.
