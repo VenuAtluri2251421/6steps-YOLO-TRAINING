@@ -1,0 +1,35 @@
+Agenda-6
+
+after training the model we will get a best.pt file inside the mainfolder (test1) 
+if we  train it again we get a new that is last.pt
+
+the difference is the best.pt is the best of all the number of times the data is trained
+the last.pt is the lastly trained data
+
+to test the model
+
+use this code
+
+
+yolo task=detect mode=predict model=runs/train/exp/weights/best.pt source=path/to/your/test/image_or_video
+
+
+
+in the model you can eiyher select the best.pt of last.pt file
+
+the data you want to check for results need to be set at source (the location of the data to deploy)
+
+after the testinf we will get the output...
+
+
+
+
+
+
+
+
+
+
+
+THANK YOU😁😁😁
+🤞
