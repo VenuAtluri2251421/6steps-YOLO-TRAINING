@@ -1,0 +1,22 @@
+Agenda-5
+
+Now to train the data open the terminal and set the file location based on the data location
+
+then run this one line code:-
+
+
+yolo task=detect mode=train model=yolov8n.pt data=foldername.yaml epochs=110
+
+
+model= select the required model 
+
+the n in the model say yolov8n reresents nano those are explained at the version.png
+it helps to select the required version based on speed,accuracy etc...
+
+the data in the code represents the file name of the yaml stored file
+and epochs value is used to iterate the loop to run over the dataset for train,test,val 
+the higher the epochs the better accuracy
+
+the code takes time based on the epochs value and the dataset size 
+if more data and more epochs
+better accuray
