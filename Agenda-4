@@ -1,0 +1,25 @@
+Agenda-4
+You need to keep all the files in a folder wherever you want them to (Example test1 for storing the test,train,validate,best,last).
+the images and lables files need to be downloaded from the website explained in earlier agenda.
+
+create a text file and add the data as foldername.yaml(used to store the location of these test,train,val)
+
+' # ' represents comments inside the yaml files 
+Inside the file:-
+
+# Root path and specific paths for train, validation, and test sets
+path: E:/test1              # if path is in localdisk E/test1 folder
+train: train/images            # Training images (relative to 'path')
+val: valid/images              # Validation images (relative to 'path')
+test: test/images              # Test images (relative to 'path')
+
+# Number of classes(based on your number of lables)
+nc: 1                          # Only one class
+
+# Class names
+names:
+  0: test1
+
+end of file
+
+check the names of the files inside the yaml and the files which are saved inside the main folder (example test1).
