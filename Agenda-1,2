@@ -1,3 +1,4 @@
+Agenda-1
 These are the explanations and the comparision is given in the compare and contrast.png
 
 YOLOv1: Introduced in 2016, it framed object detection as a single regression problem, enabling real-time detection.
@@ -13,3 +14,5 @@ YOLOv9: Introduced in 2023, it focused on reducing computational demands while m
 YOLOv10: Released in mid-2024, it eliminated the need for non-maximum suppression (NMS) and optimized various model components for superior performance with reduced computational overhead. 
 ULTRALYTICS DOCS
 YOLOv11: The latest version, released in October 2024, continues to build upon previous advancements, introducing significant improvements in architecture and training methods, making it a versatile choice for a wide range of computer vision tasks.
+Agenda-2
+after checking these out select the required version
