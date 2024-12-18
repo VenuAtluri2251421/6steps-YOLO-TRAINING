@@ -1,3 +1,5 @@
+These are the explanations and the comparision is given in the compare and contrast.png
+
 YOLOv1: Introduced in 2016, it framed object detection as a single regression problem, enabling real-time detection.
 YOLOv2 (YOLO9000): Released in 2017, it improved accuracy and speed, introducing batch normalization and high-resolution classifiers.
 YOLOv3: Launched in 2018, it brought enhancements like multi-scale predictions and a deeper architecture for better performance.
